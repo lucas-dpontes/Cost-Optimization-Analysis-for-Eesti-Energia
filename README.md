@@ -68,7 +68,6 @@ Then, turnover cycles were identified, according the chart below, to highlight s
 xxx
 ```
 </details>
-<p align="center"><img src="https://github.com/lucas-dpontes/People-Analytics-Challenge/blob/main/hiring_chart.PNG?raw=true"></p>
 
 Based on the hiring history, this value was increased in the 4th quarter of 2023.
 
