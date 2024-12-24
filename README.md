@@ -47,17 +47,16 @@ A peak period was observed in 2022, followed by a sharp decline in 2023. It is a
 
 <p align="center"><img src="https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/temporal-analysis.png"></p><br>
 
-Based on the graph above, it can be observed that there is a significant variation in prices, with sharp peaks in 2022, followed by a gradual decline and stabilization in 2023.
-
-The daily data (gray line) shows high fluctuations, while the weekly (blue line) and monthly (green line) averages smooth out the variations, highlighting long-term trends.
-
-The observed peaks, particularly in 2022, may be linked to energy crises or external factors affecting the market, such as increased demand or supply restrictions.
-
-From 2023 onwards, prices exhibit lower volatility and reduced levels, suggesting market normalization and stabilization.
+- Based on the graph above, it can be observed that there is a significant variation in prices, with sharp peaks in 2022, followed by a gradual decline and stabilization in 2023.
+- The daily data (gray line) shows high fluctuations, while the weekly (blue line) and monthly (green line) averages smooth out the variations, highlighting long-term trends.
+- The observed peaks, particularly in 2022, may be linked to energy crises or external factors affecting the market, such as increased demand or supply restrictions.
+- From 2023 onwards, prices exhibit lower volatility and reduced levels, suggesting market normalization and stabilization.
 
 Due to the year of execution of the study (December/2024), only the 2023 period will be considered from this point forward, to ensure a more focused analysis on recent trends and market conditions.
 
 ## Monthly analysis (2023)
+
+<div align="center">
 
 | Month | Minimum Cost | Average Cost | Maximum Cost |
 |:-:|:-:|:-:|:-:|
@@ -67,7 +66,7 @@ Due to the year of execution of the study (December/2024), only the 2023 period 
 | 4 | 22.73 | 65.80 | 124.57 |
 | 5 | 28.56 | 68.50 | 94.41 |
 
-xxx
+</div>
 
 ## Comparison of consumption
 
