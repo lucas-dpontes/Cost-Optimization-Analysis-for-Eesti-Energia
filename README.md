@@ -19,9 +19,9 @@ The group has three main areas of operation:
 - oil shale production
 - electricity sales and distribution
 
-Business Pain: high production cost
-Root Cause: high energy cost
-Main Goal: study the energy cost data and suggest an action plan to reduce the cost
+**Business Pain:** high production cost
+**Root Cause:** high energy cost
+**Main Goal:** study the energy cost data and suggest an action plan to reduce the cost
 
 <br><br><h1 align="center">Analysis</h1>
 
@@ -41,7 +41,7 @@ A peak period was observed in 2022, followed by a sharp decline in 2023. It is a
 
 ## Moving average of prices
 
-<p align="center"><img src=""></p><br>
+<p align="center"><img src="https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/temporal-analysis.png"></p><br>
 
 Based on the graph above, it can be observed that there is a significant variation in prices, with sharp peaks in 2022, followed by a gradual decline and stabilization in 2023.
 
