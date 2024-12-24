@@ -65,7 +65,7 @@ Due to the year of execution of the study (December/2024), only the 2023 period 
 
 xxx
 
-## Comparison of consumption by hour and day
+## Comparison of consumption
 
 <p align="center"><img src="https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/heatmap-hour-day.png"></p><br>
 
@@ -74,6 +74,6 @@ It is observed that there is a predominance of consumption during the periods fr
 <br><br><h1 align="center">Conclusions & Insights</h1>
 
 Suggestions to reduce production costs:
-By analyzing the behavior of energy costs throughout the day, we observe that the average cost of energy is significantly cheaper between 10 PM and 5 AM, being almost three times cheaper than producing energy during commercial hours.
-To take advantage of this cost difference, it is essential to expand the use of energy storage solutions, such as lithium-ion batteries, thermal energy storage systems, and gravitational potential energy. These solutions allow energy to be stored during periods of lower cost and used during peak hours, optimizing consumption and reducing operational costs.
-Additionally, a change in the billing model can be beneficial. Offering lower rates during off-peak hours would encourage consumers to shift part of their consumption to these periods, promoting a more homogeneous distribution of energy consumption throughout the day. This would not only reduce the pressure on generation and distribution infrastructure during peak hours but also result in greater energy efficiency and lower costs for consumers.
+1. By analyzing the behavior of energy costs throughout the day, we observe that the average cost of energy is significantly cheaper between 10 PM and 5 AM, being almost three times cheaper than producing energy during commercial hours.
+2. To take advantage of this cost difference, it is essential to expand the use of energy storage solutions, such as lithium-ion batteries, thermal energy storage systems, and gravitational potential energy. These solutions allow energy to be stored during periods of lower cost and used during peak hours, optimizing consumption and reducing operational costs.
+3. Additionally, a change in the billing model can be beneficial. Offering lower rates during off-peak hours would encourage consumers to shift part of their consumption to these periods, promoting a more homogeneous distribution of energy consumption throughout the day. This would not only reduce the pressure on generation and distribution infrastructure during peak hours but also result in greater energy efficiency and lower costs for consumers.
