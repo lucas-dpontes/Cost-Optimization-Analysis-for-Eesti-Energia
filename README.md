@@ -12,7 +12,7 @@ Project developed by Lucas Pontes *[profile](https://www.linkedin.com/in/lucasdp
 
 <p><img src="https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/eesti-logo.png"></p><br>
 
-Eesti Energia AS is an energy company located in Estonia. It is the largest oil shale energy company in the world.
+Eesti Energia (https://www.enefit.ee/en) is an energy company located in Estonia. It is the largest oil shale energy company in the world.
 
 In 2014, it operated in Estonia, Latvia, Lithuania, Finland, Jordan, and Utah (United States).
 
