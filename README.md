@@ -1,61 +1,59 @@
 # Cost-Optimization-Analysis-for-Eesti-Energia
 
-<details>
-  <summary>Code</summary>
-  
-```
-code
-```
-</details>
-
-
 Data analysis project developed as part of the Eesti Energia challenge, promoted by the **[Data Vinking](https://www.dataviking.com.br/)** data community. 
+
+This document summarizes the trajectory of the data analysis project, highlighting the main points and visualizations.
+
+The complete study is available clicking here, or by accessing the file Project.ipynb located in this repository.
 
 Project developed by Lucas Pontes *[profile](https://www.linkedin.com/in/lucasdpontes/)*
 
-**Python libraries used:**
+<br><br><h1 align="center">Introduction</h1>
 
-<img src="" width=170>
+Eesti Energia AS is an energy company located in Estonia. It is the largest oil shale energy company in the world.
 
-<br><br><h1 align="center">Business Pain</h1>
+In 2014, it operated in Estonia, Latvia, Lithuania, Finland, Jordan, and Utah (United States).
 
-xxx
+The group has three main areas of operation:
+- electricity generation
+- oil shale production
+- electricity sales and distribution
+
+Business Pain: high production cost
+Root Cause: high energy cost
+Main Goal: study the energy cost data and suggest an action plan to reduce the cost
 
 <br><br><h1 align="center">Analysis</h1>
 
-## Distribution of positions
-
-<details>
-  <summary>Code</summary>
-  
-```
-xxx
-```
-</details>
+## Annual average price
 
 <div align="center">
 
-| Position | Percentage |
+| Year | Average price [€] |
 |:-:|:-:|
-| Junior | 35.9  |
-| Full | 34.6  |
-| Senior | 29.5  |
+| 2021 | 137.2 |
+| 2022 | 192.8 |
+| 2023 | 86.2 |
 
 </div>
 
-## Average length of stay
+A peak period was observed in 2022, followed by a sharp decline in 2023. It is advisable to analyze these variations more deeply.
 
-Firstly, the average length of stay of employees was examined, offering an overview of the stability of the workforce over time.
+## Moving average of prices
 
-<details>
-  <summary>Code</summary>
-  
-```
-xxx
-```
-</details>
+------------------------------------------IMAGEM
 
-## Turnover Cycles
+Based on the graph above, it can be observed that there is a significant variation in prices, with sharp peaks in 2022, followed by a gradual decline and stabilization in 2023.
+
+The daily data (gray line) shows high fluctuations, while the weekly (blue line) and monthly (green line) averages smooth out the variations, highlighting long-term trends.
+
+The observed peaks, particularly in 2022, may be linked to energy crises or external factors affecting the market, such as increased demand or supply restrictions.
+
+From 2023 onwards, prices exhibit lower volatility and reduced levels, suggesting market normalization and stabilization.
+
+Due to the year of execution of the study (December/2024), only the 2023 period will be considered from this point forward, to ensure a more focused analysis on recent trends and market conditions.
+
+## Monthly analysis of 2023:
 
 Then, turnover cycles were identified, according the chart below, to highlight specific periods in which there were spikes in employee departures from the company.
 
