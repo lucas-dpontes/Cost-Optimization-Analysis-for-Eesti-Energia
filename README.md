@@ -67,7 +67,7 @@ xxx
 
 ## Comparison of consumption by hour and day
 
-<p align="center"><img src=""></p><br>
+<p align="center"><img src="https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/heatmap-hour-day.png"></p><br>
 
 It is observed that there is a predominance of consumption during the periods from 6-9 AM and 4-9 PM.
 
