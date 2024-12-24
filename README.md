@@ -10,6 +10,8 @@ Project developed by Lucas Pontes *[profile](https://www.linkedin.com/in/lucasdp
 
 <br><br><h1 align="center">Introduction</h1>
 
+<p><img src="https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/eesti-logo.png"></p><br>
+
 Eesti Energia AS is an energy company located in Estonia. It is the largest oil shale energy company in the world.
 
 In 2014, it operated in Estonia, Latvia, Lithuania, Finland, Jordan, and Utah (United States).
@@ -20,7 +22,9 @@ The group has three main areas of operation:
 - electricity sales and distribution
 
 **Business Pain:** high production cost
+
 **Root Cause:** high energy cost
+
 **Main Goal:** study the energy cost data and suggest an action plan to reduce the cost
 
 <br><br><h1 align="center">Analysis</h1>
