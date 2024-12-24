@@ -1,10 +1,10 @@
 # Cost-Optimization-Analysis-for-Eesti-Energia
 
-Data analysis project developed as part of the Eesti Energia challenge, promoted by the **[Data Vinking](https://www.dataviking.com.br/)** data community. 
+Data analysis project developed as part of the Eesti Energia challenge, promoted by the [Data Vinking](https://www.dataviking.com.br/) data community. 
 
 This document summarizes the trajectory of the data analysis project, highlighting the main points and visualizations.
 
-The complete study is available clicking here, or by accessing the file Project.ipynb located in this repository.
+The complete study is available **[clicking here](https://github.com/lucas-dpontes/Cost-Optimization-Analysis-for-Eesti-Energia/blob/main/Project.ipynb)**, or by accessing the **Project.ipynb** file located in this repository.
 
 Project developed by Lucas Pontes *[profile](https://www.linkedin.com/in/lucasdpontes/)*
 
